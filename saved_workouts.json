@@ -1,0 +1,660 @@
+[
+  {
+    "timestamp": "2025-03-24 13:00:54",
+    "workout": [
+      {
+        "name": "One-Arm Kettlebell Snatch",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "kettlebells",
+        "primaryMuscles": "['shoulders']",
+        "secondaryMuscles": "['calves', 'glutes', 'hamstrings', 'lower back', 'traps', 'triceps']",
+        "instructions": "['Place a kettlebell between your feet. Bend your knees and push your butt back to get in the proper starting position.', 'Look straight ahead and swing the kettlebell back between your legs.', 'Immediately reverse the direction and drive through with your hips and knees, accelerating the kettlebell upward. As the kettlebell rises to your shoulder rotate your hand and punch straight up, using momentum to receive the weight locked out overhead.']",
+        "category": "strength",
+        "images": "['One-Arm_Kettlebell_Snatch/0.jpg', 'One-Arm_Kettlebell_Snatch/1.jpg']",
+        "id": "One-Arm_Kettlebell_Snatch"
+      },
+      {
+        "name": "One-Arm Kettlebell Split Snatch",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "kettlebells",
+        "primaryMuscles": "['shoulders']",
+        "secondaryMuscles": "['hamstrings', 'quadriceps']",
+        "instructions": "['Hold a kettlebell in one hand by the handle.', 'Squat towards the floor, and then reverse the motion, extending the hips, knees, and finally the ankles, to raise the kettlebell overhead.', 'After fully extending the body, descend into a lunge position to receive the weights overhead, one leg forward and one leg back. Ensure you drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion.', 'Return to a standing position, holding the weight overhead, and bring the feet together. Lower the weight to return to the starting position.']",
+        "category": "strength",
+        "images": "['One-Arm_Kettlebell_Split_Snatch/0.jpg', 'One-Arm_Kettlebell_Split_Snatch/1.jpg']",
+        "id": "One-Arm_Kettlebell_Split_Snatch"
+      },
+      {
+        "name": "Hang Snatch - Below Knees",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "['abdominals', 'calves', 'forearms', 'glutes', 'lower back', 'quadriceps', 'shoulders', 'traps']",
+        "instructions": "['Begin with a wide grip on the bar, with an overhand or hook grip. The feet should be directly below the hips with the feet turned out. Your knees should be slightly bent, and the torso inclined forward. The spine should be fully extended and the head facing forward. The bar should be just below the knees. This will be your starting position.', 'Aggressively extend through the legs and hips. At peak extension, shrug the shoulders and allow the elbows to flex to the side.', 'As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. Receive the bar with your body as low as possible and the arms fully extended overhead.', 'Return to a standing position with the weight overhead, and then return the weight to the floor under control.']",
+        "category": "olympic weightlifting",
+        "images": "['Hang_Snatch_-_Below_Knees/0.jpg', 'Hang_Snatch_-_Below_Knees/1.jpg']",
+        "id": "Hang_Snatch_-_Below_Knees"
+      },
+      {
+        "name": "Open Palm Kettlebell Clean",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "kettlebells",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "['glutes', 'lower back', 'quadriceps', 'shoulders']",
+        "instructions": "['Place one kettlebell between your feet. Clean the kettlebell by extending through the legs and hips as you raise the kettlebell towards your shoulders.', 'Release the kettlebell as it comes up, and let it flip so that the ball of the kettlebell lands in the palms of your hands.', 'Release the kettlebell out in front of you and catch the handle with both hands. Lower the kettlebell to the starting position and repeat.']",
+        "category": "strength",
+        "images": "['Open_Palm_Kettlebell_Clean/0.jpg', 'Open_Palm_Kettlebell_Clean/1.jpg']",
+        "id": "Open_Palm_Kettlebell_Clean"
+      },
+      {
+        "name": "Barbell Ab Rollout - On Knees",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['abdominals']",
+        "secondaryMuscles": "['lower back', 'shoulders']",
+        "instructions": "['Hold an Olympic barbell loaded with 5-10lbs on each side and kneel on the floor.', 'Now place the barbell on the floor in front of you so that you are on all your hands and knees (as in a kneeling push up position). This will be your starting position.', 'Slowly roll the barbell straight forward, stretching your body into a straight position. Tip: Go down as far as you can without touching the floor with your body. Breathe in during this portion of the movement.', 'After a second pause at the stretched position, start pulling yourself back to the starting position as you breathe out. Tip: Go slowly and keep your abs tight at all times.']",
+        "category": "strength",
+        "images": "['Barbell_Ab_Rollout_-_On_Knees/0.jpg', 'Barbell_Ab_Rollout_-_On_Knees/1.jpg']",
+        "id": "Barbell_Ab_Rollout_-_On_Knees"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-03-24 13:02:47",
+    "workout": [
+      {
+        "name": "Reverse Band Sumo Deadlift",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "['abductors', 'adductors', 'calves', 'forearms', 'glutes', 'lower back', 'quadriceps', 'traps']",
+        "instructions": "['Begin with a bar loaded on the floor inside of a power rack. Attach bands to the top of the rack, using either pegs or the frame itself. Attach the other end to the barbell.', 'Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms.', 'Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.', 'As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.', 'Return the weight to the ground by bending at the hips and controlling the weight on the way down.']",
+        "category": "powerlifting",
+        "images": "['Reverse_Band_Sumo_Deadlift/0.jpg', 'Reverse_Band_Sumo_Deadlift/1.jpg']",
+        "id": "Reverse_Band_Sumo_Deadlift"
+      },
+      {
+        "name": "Open Palm Kettlebell Clean",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "kettlebells",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "['glutes', 'lower back', 'quadriceps', 'shoulders']",
+        "instructions": "['Place one kettlebell between your feet. Clean the kettlebell by extending through the legs and hips as you raise the kettlebell towards your shoulders.', 'Release the kettlebell as it comes up, and let it flip so that the ball of the kettlebell lands in the palms of your hands.', 'Release the kettlebell out in front of you and catch the handle with both hands. Lower the kettlebell to the starting position and repeat.']",
+        "category": "strength",
+        "images": "['Open_Palm_Kettlebell_Clean/0.jpg', 'Open_Palm_Kettlebell_Clean/1.jpg']",
+        "id": "Open_Palm_Kettlebell_Clean"
+      },
+      {
+        "name": "Deadlift with Chains",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['lower back']",
+        "secondaryMuscles": "['forearms', 'glutes', 'hamstrings', 'middle back', 'quadriceps', 'traps']",
+        "instructions": "['You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift.', 'Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets. With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar.', 'Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.', 'Lower the bar by bending at the hips and guiding it to the floor.']",
+        "category": "powerlifting",
+        "images": "['Deadlift_with_Chains/0.jpg', 'Deadlift_with_Chains/1.jpg']",
+        "id": "Deadlift_with_Chains"
+      },
+      {
+        "name": "Split Snatch",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "['calves', 'forearms', 'glutes', 'hamstrings', 'lower back', 'quadriceps', 'shoulders', 'traps', 'triceps']",
+        "instructions": "['Begin with a loaded barbell on the floor. The bar should be close to or touching the shins, and a wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.', 'Begin the first pull by driving through the front of the heels, raising the bar from the ground. The back angle should stay the same until the bar passes the knees.', 'Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.', 'As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move forcefully to a split position, one foot forward one foot back. Receive the bar with your body as low as possible and the arms fully extended overhead.', 'Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position, bringing your feet together.', 'Carefully return the weight to floor.']",
+        "category": "olympic weightlifting",
+        "images": "['Split_Snatch/0.jpg', 'Split_Snatch/1.jpg']",
+        "id": "Split_Snatch"
+      },
+      {
+        "name": "Hang Snatch",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "['abdominals', 'calves', 'forearms', 'glutes', 'lower back', 'quadriceps', 'shoulders', 'traps']",
+        "instructions": "['Begin with a wide grip on the bar, with an overhand or hook grip. The feet should be directly below the hips with the feet turned out. Your knees should be slightly bent, and the torso inclined forward. The spine should be fully extended and the head facing forward. The bar should be at the hips. This will be your starting position.', 'Aggressively extend through the legs and hips. At peak extension, shrug the shoulders and allow the elbows to flex to the side.', 'As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. Receive the bar with your body as low as possible and the arms fully extended overhead.', 'Return to a standing position with the weight overhead. Follow by returning the weight to the ground under control.']",
+        "category": "olympic weightlifting",
+        "images": "['Hang_Snatch/0.jpg', 'Hang_Snatch/1.jpg']",
+        "id": "Hang_Snatch"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-03-24 13:08:16",
+    "workout": []
+  },
+  {
+    "timestamp": "2025-03-24 13:08:25",
+    "workout": [
+      {
+        "name": "Reverse Band Deadlift",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['lower back']",
+        "secondaryMuscles": "['abductors', 'adductors', 'calves', 'glutes', 'hamstrings', 'quadriceps']",
+        "instructions": "['Set the bar up in a power rack. Attach bands to the top of the rack, using either bands pegs or the frame itself. Attach the other end of the bands to the bar.', 'Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets.', 'With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward.', 'After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.', 'Lower the bar by bending at the hips and guiding it to the floor.']",
+        "category": "powerlifting",
+        "images": "['Reverse_Band_Deadlift/0.jpg', 'Reverse_Band_Deadlift/1.jpg']",
+        "id": "Reverse_Band_Deadlift"
+      },
+      {
+        "name": "Mixed Grip Chin",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": "['middle back']",
+        "secondaryMuscles": "['biceps', 'lats']",
+        "instructions": "['Using a spacing that is just about 1 inch wider than shoulder width, grab a pull-up bar with the palms of one hand facing forward and the palms of the other hand facing towards you. This will be your starting position.', 'Now start to pull yourself up as you exhale. Tip: With the arm that has the palms facing up concentrate on using the back muscles in order to perform the movement. The elbow of that arm should remain close to the torso. With the other arm that has the palms facing forward, the elbows will be away but in line with the torso. You will concentrate on using the lats to pull your body up.', 'After a second contraction at the top, start to slowly come down as you inhale.', 'Repeat for the recommended amount of repetitions.', 'On the following set, switch grips; so if you had the right hand with the palms facing you and the left one with the palms facing forward, on the next set you will have the palms facing forward for the right hand and facing you for the left.']",
+        "category": "strength",
+        "images": "['Mixed_Grip_Chin/0.jpg', 'Mixed_Grip_Chin/1.jpg']",
+        "id": "Mixed_Grip_Chin"
+      },
+      {
+        "name": "Snatch from Blocks",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "['calves', 'forearms', 'glutes', 'hamstrings', 'lower back', 'shoulders', 'traps', 'triceps']",
+        "instructions": "['Begin with a loaded barbell on boxes or stands of the desired height. A wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar, with the elbows pointed out. This will be the starting position.', 'Begin the first pull by driving through the front of the heels, raising the bar from the boxes.', 'Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.', 'As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move to just outside the hips, turned out as necessary. Receive the bar with your body as low as possible and the arms fully extended overhead.', 'Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position. Carefully return the weight to the boxes.']",
+        "category": "olympic weightlifting",
+        "images": "['Snatch_from_Blocks/0.jpg', 'Snatch_from_Blocks/1.jpg']",
+        "id": "Snatch_from_Blocks"
+      },
+      {
+        "name": "One-Arm Side Deadlift",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "['abdominals', 'calves', 'glutes', 'hamstrings', 'lower back', 'traps']",
+        "instructions": "['Stand to the side of a barbell next to its center. Bend your knees and lower your body until you are able to reach the barbell.', 'Grasp the bar as if you were grabbing a briefcase (palms facing you since the bar is sideways). You may need a wrist wrap if you are using a significant amount of weight. This is your starting position.', 'Use your legs to help lift the barbell up while exhaling. Your arms should extend fully as bring the barbell up until you are in a standing position.', 'Slowly bring the barbell back down while inhaling. Tip: Make sure to bend your knees while lowering the weight to avoid any injury from occurring.', 'Repeat for the recommended amount of repetitions.', 'Switch arms and repeat the movement.']",
+        "category": "strength",
+        "images": "['One-Arm_Side_Deadlift/0.jpg', 'One-Arm_Side_Deadlift/1.jpg']",
+        "id": "One-Arm_Side_Deadlift"
+      },
+      {
+        "name": "Deadlift with Chains",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['lower back']",
+        "secondaryMuscles": "['forearms', 'glutes', 'hamstrings', 'middle back', 'quadriceps', 'traps']",
+        "instructions": "['You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift.', 'Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets. With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar.', 'Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.', 'Lower the bar by bending at the hips and guiding it to the floor.']",
+        "category": "powerlifting",
+        "images": "['Deadlift_with_Chains/0.jpg', 'Deadlift_with_Chains/1.jpg']",
+        "id": "Deadlift_with_Chains"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-03-24 13:08:35",
+    "workout": [
+      {
+        "name": "Alternating Renegade Row",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "kettlebells",
+        "primaryMuscles": "['middle back']",
+        "secondaryMuscles": "['abdominals', 'biceps', 'chest', 'lats', 'triceps']",
+        "instructions": "['Place two kettlebells on the floor about shoulder width apart. Position yourself on your toes and your hands as though you were doing a pushup, with the body straight and extended. Use the handles of the kettlebells to support your upper body. You may need to position your feet wide for support.', 'Push one kettlebell into the floor and row the other kettlebell, retracting the shoulder blade of the working side as you flex the elbow, pulling it to your side.', 'Then lower the kettlebell to the floor and begin the kettlebell in the opposite hand. Repeat for several reps.']",
+        "category": "strength",
+        "images": "['Alternating_Renegade_Row/0.jpg', 'Alternating_Renegade_Row/1.jpg']",
+        "id": "Alternating_Renegade_Row"
+      },
+      {
+        "name": "One Arm Chin-Up",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": "['middle back']",
+        "secondaryMuscles": "['biceps', 'forearms', 'lats']",
+        "instructions": "['For this exercise, start out by placing a towel around a chin up bar.', 'Grab the chin-up bar with your palm facing you. One hand will be grabbing the chin-up bar and the other will be grabbing the towel.', 'Bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.v', 'Pull your torso up until the bar touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.', 'After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.', 'Repeat this motion for the prescribed amount of repetitions.', 'Switch arms and repeat the movement.']",
+        "category": "strength",
+        "images": "['One_Arm_Chin-Up/0.jpg', 'One_Arm_Chin-Up/1.jpg']",
+        "id": "One_Arm_Chin-Up"
+      },
+      {
+        "name": "Mixed Grip Chin",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": "['middle back']",
+        "secondaryMuscles": "['biceps', 'lats']",
+        "instructions": "['Using a spacing that is just about 1 inch wider than shoulder width, grab a pull-up bar with the palms of one hand facing forward and the palms of the other hand facing towards you. This will be your starting position.', 'Now start to pull yourself up as you exhale. Tip: With the arm that has the palms facing up concentrate on using the back muscles in order to perform the movement. The elbow of that arm should remain close to the torso. With the other arm that has the palms facing forward, the elbows will be away but in line with the torso. You will concentrate on using the lats to pull your body up.', 'After a second contraction at the top, start to slowly come down as you inhale.', 'Repeat for the recommended amount of repetitions.', 'On the following set, switch grips; so if you had the right hand with the palms facing you and the left one with the palms facing forward, on the next set you will have the palms facing forward for the right hand and facing you for the left.']",
+        "category": "strength",
+        "images": "['Mixed_Grip_Chin/0.jpg', 'Mixed_Grip_Chin/1.jpg']",
+        "id": "Mixed_Grip_Chin"
+      },
+      {
+        "name": "One-Arm Kettlebell Snatch",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "kettlebells",
+        "primaryMuscles": "['shoulders']",
+        "secondaryMuscles": "['calves', 'glutes', 'hamstrings', 'lower back', 'traps', 'triceps']",
+        "instructions": "['Place a kettlebell between your feet. Bend your knees and push your butt back to get in the proper starting position.', 'Look straight ahead and swing the kettlebell back between your legs.', 'Immediately reverse the direction and drive through with your hips and knees, accelerating the kettlebell upward. As the kettlebell rises to your shoulder rotate your hand and punch straight up, using momentum to receive the weight locked out overhead.']",
+        "category": "strength",
+        "images": "['One-Arm_Kettlebell_Snatch/0.jpg', 'One-Arm_Kettlebell_Snatch/1.jpg']",
+        "id": "One-Arm_Kettlebell_Snatch"
+      },
+      {
+        "name": "Deadlift with Bands",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['lower back']",
+        "secondaryMuscles": "['forearms', 'glutes', 'hamstrings', 'middle back', 'quadriceps', 'traps']",
+        "instructions": "['To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. For long bands, they will need to be anchored to a secure base, such as heavy dumbbells or a rack.', 'With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.', 'Lower the bar by bending at the hips and guiding it to the floor.']",
+        "category": "powerlifting",
+        "images": "['Deadlift_with_Bands/0.jpg', 'Deadlift_with_Bands/1.jpg']",
+        "id": "Deadlift_with_Bands"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-03-24 13:08:39",
+    "workout": []
+  },
+  {
+    "timestamp": "2025-03-24 13:08:42",
+    "workout": []
+  },
+  {
+    "timestamp": "2025-03-24 13:38:41",
+    "workout": []
+  },
+  {
+    "timestamp": "2025-03-24 13:38:45",
+    "workout": []
+  },
+  {
+    "timestamp": "2025-03-24 13:40:24",
+    "workout": [
+      {
+        "name": "Hanging Leg Raise",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": "['abdominals']",
+        "secondaryMuscles": "[]",
+        "instructions": "['Hang from a chin-up bar with both arms extended at arms length in top of you using either a wide grip or a medium grip. The legs should be straight down with the pelvis rolled slightly backwards. This will be your starting position.', 'Raise your legs until the torso makes a 90-degree angle with the legs. Exhale as you perform this movement and hold the contraction for a second or so.', 'Go back slowly to the starting position as you breathe in.', 'Repeat for the recommended amount of repetitions.']",
+        "category": "strength",
+        "images": "['Hanging_Leg_Raise/0.jpg', 'Hanging_Leg_Raise/1.jpg']",
+        "id": "Hanging_Leg_Raise"
+      },
+      {
+        "name": "Hanging Pike",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": "['abdominals']",
+        "secondaryMuscles": "[]",
+        "instructions": "['Hang from a chin-up bar with your legs and feet together using an overhand grip (palms facing away from you) that is slightly wider than shoulder width. Tip: You may use wrist wraps in order to facilitate holding on to the bar.', 'Now bend your knees at a 90 degree angle and bring the upper legs forward so that the calves are perpendicular to the floor while the thighs remain parallel to it. This will be your starting position.', 'Pull your legs up as you exhale until you almost touch your shins with the bar above you. Tip: Try to straighten your legs as much as possible while at the top.', 'Lower your legs as slowly as possible until you reach the starting position. Tip: Avoid swinging and using momentum at all times.', 'Repeat for the recommended amount of repetitions.']",
+        "category": "strength",
+        "images": "['Hanging_Pike/0.jpg', 'Hanging_Pike/1.jpg']",
+        "id": "Hanging_Pike"
+      },
+      {
+        "name": "One-Arm Side Deadlift",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "['abdominals', 'calves', 'glutes', 'hamstrings', 'lower back', 'traps']",
+        "instructions": "['Stand to the side of a barbell next to its center. Bend your knees and lower your body until you are able to reach the barbell.', 'Grasp the bar as if you were grabbing a briefcase (palms facing you since the bar is sideways). You may need a wrist wrap if you are using a significant amount of weight. This is your starting position.', 'Use your legs to help lift the barbell up while exhaling. Your arms should extend fully as bring the barbell up until you are in a standing position.', 'Slowly bring the barbell back down while inhaling. Tip: Make sure to bend your knees while lowering the weight to avoid any injury from occurring.', 'Repeat for the recommended amount of repetitions.', 'Switch arms and repeat the movement.']",
+        "category": "strength",
+        "images": "['One-Arm_Side_Deadlift/0.jpg', 'One-Arm_Side_Deadlift/1.jpg']",
+        "id": "One-Arm_Side_Deadlift"
+      },
+      {
+        "name": "Power Snatch",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "['calves', 'glutes', 'lower back', 'quadriceps', 'shoulders', 'traps', 'triceps']",
+        "instructions": "['Begin with a loaded barbell on the floor. The bar should be close to or touching the shins, and a wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.', 'Begin the first pull by driving through the front of the heels, raising the bar from the ground. The back angle should stay the same until the bar passes the knees.', 'Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.', 'As you move your feet into the receiving position, a slightly wider position, pull yourself below the bar as you elevate the bar overhead. The bar should be received in a partial squat. Continue raising the bar to the overhead position, receiving the bar locked out overhead.', 'Return to a standing position with the weight over head.']",
+        "category": "olympic weightlifting",
+        "images": "['Power_Snatch/0.jpg', 'Power_Snatch/1.jpg']",
+        "id": "Power_Snatch"
+      },
+      {
+        "name": "Split Snatch",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "['calves', 'forearms', 'glutes', 'hamstrings', 'lower back', 'quadriceps', 'shoulders', 'traps', 'triceps']",
+        "instructions": "['Begin with a loaded barbell on the floor. The bar should be close to or touching the shins, and a wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.', 'Begin the first pull by driving through the front of the heels, raising the bar from the ground. The back angle should stay the same until the bar passes the knees.', 'Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.', 'As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move forcefully to a split position, one foot forward one foot back. Receive the bar with your body as low as possible and the arms fully extended overhead.', 'Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position, bringing your feet together.', 'Carefully return the weight to floor.']",
+        "category": "olympic weightlifting",
+        "images": "['Split_Snatch/0.jpg', 'Split_Snatch/1.jpg']",
+        "id": "Split_Snatch"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-03-24 13:41:02",
+    "workout": [
+      {
+        "name": "Deadlift with Chains",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['lower back']",
+        "secondaryMuscles": "['forearms', 'glutes', 'hamstrings', 'middle back', 'quadriceps', 'traps']",
+        "instructions": "['You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift.', 'Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets. With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar.', 'Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.', 'Lower the bar by bending at the hips and guiding it to the floor.']",
+        "category": "powerlifting",
+        "images": "['Deadlift_with_Chains/0.jpg', 'Deadlift_with_Chains/1.jpg']",
+        "id": "Deadlift_with_Chains"
+      },
+      {
+        "name": "Snatch from Blocks",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "['calves', 'forearms', 'glutes', 'hamstrings', 'lower back', 'shoulders', 'traps', 'triceps']",
+        "instructions": "['Begin with a loaded barbell on boxes or stands of the desired height. A wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar, with the elbows pointed out. This will be the starting position.', 'Begin the first pull by driving through the front of the heels, raising the bar from the boxes.', 'Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.', 'As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move to just outside the hips, turned out as necessary. Receive the bar with your body as low as possible and the arms fully extended overhead.', 'Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position. Carefully return the weight to the boxes.']",
+        "category": "olympic weightlifting",
+        "images": "['Snatch_from_Blocks/0.jpg', 'Snatch_from_Blocks/1.jpg']",
+        "id": "Snatch_from_Blocks"
+      },
+      {
+        "name": "Hanging Pike",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": "['abdominals']",
+        "secondaryMuscles": "[]",
+        "instructions": "['Hang from a chin-up bar with your legs and feet together using an overhand grip (palms facing away from you) that is slightly wider than shoulder width. Tip: You may use wrist wraps in order to facilitate holding on to the bar.', 'Now bend your knees at a 90 degree angle and bring the upper legs forward so that the calves are perpendicular to the floor while the thighs remain parallel to it. This will be your starting position.', 'Pull your legs up as you exhale until you almost touch your shins with the bar above you. Tip: Try to straighten your legs as much as possible while at the top.', 'Lower your legs as slowly as possible until you reach the starting position. Tip: Avoid swinging and using momentum at all times.', 'Repeat for the recommended amount of repetitions.']",
+        "category": "strength",
+        "images": "['Hanging_Pike/0.jpg', 'Hanging_Pike/1.jpg']",
+        "id": "Hanging_Pike"
+      },
+      {
+        "name": "Barbell Ab Rollout - On Knees",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['abdominals']",
+        "secondaryMuscles": "['lower back', 'shoulders']",
+        "instructions": "['Hold an Olympic barbell loaded with 5-10lbs on each side and kneel on the floor.', 'Now place the barbell on the floor in front of you so that you are on all your hands and knees (as in a kneeling push up position). This will be your starting position.', 'Slowly roll the barbell straight forward, stretching your body into a straight position. Tip: Go down as far as you can without touching the floor with your body. Breathe in during this portion of the movement.', 'After a second pause at the stretched position, start pulling yourself back to the starting position as you breathe out. Tip: Go slowly and keep your abs tight at all times.']",
+        "category": "strength",
+        "images": "['Barbell_Ab_Rollout_-_On_Knees/0.jpg', 'Barbell_Ab_Rollout_-_On_Knees/1.jpg']",
+        "id": "Barbell_Ab_Rollout_-_On_Knees"
+      },
+      {
+        "name": "Hang Snatch - Below Knees",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "['abdominals', 'calves', 'forearms', 'glutes', 'lower back', 'quadriceps', 'shoulders', 'traps']",
+        "instructions": "['Begin with a wide grip on the bar, with an overhand or hook grip. The feet should be directly below the hips with the feet turned out. Your knees should be slightly bent, and the torso inclined forward. The spine should be fully extended and the head facing forward. The bar should be just below the knees. This will be your starting position.', 'Aggressively extend through the legs and hips. At peak extension, shrug the shoulders and allow the elbows to flex to the side.', 'As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. Receive the bar with your body as low as possible and the arms fully extended overhead.', 'Return to a standing position with the weight overhead, and then return the weight to the floor under control.']",
+        "category": "olympic weightlifting",
+        "images": "['Hang_Snatch_-_Below_Knees/0.jpg', 'Hang_Snatch_-_Below_Knees/1.jpg']",
+        "id": "Hang_Snatch_-_Below_Knees"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-03-24 13:41:06",
+    "workout": []
+  },
+  {
+    "timestamp": "2025-03-24 13:49:09",
+    "workout": []
+  },
+  {
+    "timestamp": "2025-03-24 13:49:27",
+    "workout": [
+      {
+        "name": "Sled Overhead Triceps Extension",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "other",
+        "primaryMuscles": "['triceps']",
+        "secondaryMuscles": "[]",
+        "instructions": "['Attach dual handles to a sled using a chain or rope. Load the sled to an appropriate load.', 'Facing away from the sled, step away until there is tension in the line. Raise your hands above your head, keeping them together, palms facing each other. Your elbows should be pointed upward with the elbows flexed. This will be your starting position.', 'Extend through the elbow to straighten the arm. Ensure that your upper arm stays in position to isolate the triceps.', 'Upon full extension, step forward to take the slack out of the line. You may keep your feet staggered for more stability.']",
+        "category": "strength",
+        "images": "['Sled_Overhead_Triceps_Extension/0.jpg', 'Sled_Overhead_Triceps_Extension/1.jpg']",
+        "id": "Sled_Overhead_Triceps_Extension"
+      },
+      {
+        "name": "Suspended Push-Up",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": "['chest']",
+        "secondaryMuscles": "['shoulders', 'triceps']",
+        "instructions": "['Anchor your suspension straps securely to the top of a rack or other object.', 'Leaning into the straps, take a handle in each hand and move into a push-up plank position. You should be as close to parallel to the ground as you can manage with your arms fully extended, maintaining good posture.', 'Maintaining a straight, rigid torso, descend slowly by allowing the elbows to flex.', 'Continue until your elbows break 90 degrees, pausing before you extend to return to the starting position.']",
+        "category": "strength",
+        "images": "['Suspended_Push-Up/0.jpg', 'Suspended_Push-Up/1.jpg']",
+        "id": "Suspended_Push-Up"
+      },
+      {
+        "name": "Single-Leg Lateral Hop",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "['abductors', 'adductors', 'calves', 'hamstrings']",
+        "instructions": "['Stand to the side of a cone or hurdle. To get into the start position, stand on one leg with your knee slightly bent.', 'To begin, execute a counterjump to hop sideways over the cone.', 'Land on your jumping leg, and immediately rebound out of it by jumping back to the start position.', 'Continue hopping back and forth.']",
+        "category": "plyometrics",
+        "images": "['Single-Leg_Lateral_Hop/0.jpg', 'Single-Leg_Lateral_Hop/1.jpg']",
+        "id": "Single-Leg_Lateral_Hop"
+      },
+      {
+        "name": "Cable One Arm Tricep Extension",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": "['triceps']",
+        "secondaryMuscles": "[]",
+        "instructions": "['With your right hand, grasp a single handle attached to the high-cable pulley using a supinated (underhand; palms facing up) grip. You should be standing directly in front of the weight stack.', 'Now pull the handle down so that your upper arm and elbow are locked in to the side of your body. Your upper arm and forearm should form an acute angle (less than 90-degrees). You can keep the other arm by the waist and you can have one leg in front of you and the other one back for better balance. This will be your starting position.', 'As you contract the triceps, move the single handle attachment down to your side until your arm is straight. Breathe out as you perform this movement. Tip: Only the forearms should move. Your upper arms should remain stationary at all times.', 'Squeeze the triceps and hold for a second in this contracted position.', 'Slowly return the handle to the starting position.', 'Repeat for the recommended amount of repetitions and then perform the same movement with the other arm.']",
+        "category": "strength",
+        "images": "['Cable_One_Arm_Tricep_Extension/0.jpg', 'Cable_One_Arm_Tricep_Extension/1.jpg']",
+        "id": "Cable_One_Arm_Tricep_Extension"
+      },
+      {
+        "name": "Bear Crawl Sled Drags",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "['calves', 'glutes', 'hamstrings']",
+        "instructions": "['Wearing either a harness or a loose weight belt, attach the chain to the back so that you will be facing away from the sled. Bend down so that your hands are on the ground. Your back should be flat and knees bent. This is your starting position.', 'Begin by driving with legs, alternating left and right. Use your hands to maintain balance and to help pull. Try to keep your back flat as you move over a given distance.']",
+        "category": "strongman",
+        "images": "['Bear_Crawl_Sled_Drags/0.jpg', 'Bear_Crawl_Sled_Drags/1.jpg']",
+        "id": "Bear_Crawl_Sled_Drags"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-03-24 13:49:40",
+    "workout": [
+      {
+        "name": "Chest Push (single response)",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "medicine ball",
+        "primaryMuscles": "['chest']",
+        "secondaryMuscles": "['abdominals', 'shoulders', 'triceps']",
+        "instructions": "['Begin in a kneeling position holding the medicine ball with both hands tightly into the chest.', 'Execute the pass by exploding forward and outward with the hips while pushing the ball as far as possible.', 'Follow through by falling forward, catching yourself with your hands.']",
+        "category": "plyometrics",
+        "images": "['Chest_Push_single_response/0.jpg', 'Chest_Push_single_response/1.jpg']",
+        "id": "Chest_Push_single_response"
+      },
+      {
+        "name": "Depth Jump Leap",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "['abductors', 'adductors', 'calves', 'glutes', 'hamstrings']",
+        "instructions": "['For this drill you will need two boxes or benches, one 12 to 16 inches high and the other 22 to 26 inches high.', 'Stand on one of the two boxes with arms at the sides; feet should be together and slightly off the edge as in the depth jump. Place the other box approximately two or three feet in front of and facing the performer.', 'Begin by dropping off the initial box, landing and simultaneously taking off with both feet.', 'Rebound by driving upward and outward as intensely as possible, using the arms and full extension of the body to jump onto the higher box. Again, allow the legs to absorb the impact.']",
+        "category": "plyometrics",
+        "images": "['Depth_Jump_Leap/0.jpg', 'Depth_Jump_Leap/1.jpg']",
+        "id": "Depth_Jump_Leap"
+      },
+      {
+        "name": "Supine Chest Throw",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "medicine ball",
+        "primaryMuscles": "['triceps']",
+        "secondaryMuscles": "['chest', 'shoulders']",
+        "instructions": "['This drill is great for chest passes when you lack a partner or a wall of sufficient strength. Lay on the ground on your back with your knees bent.', 'Begin with the ball on your chest, held with both hands on the bottom.', 'Explode up, extending through the elbow to throw the ball directly above you as high as possible.', 'Catch the ball with both hands as it comes down.']",
+        "category": "plyometrics",
+        "images": "['Supine_Chest_Throw/0.jpg', 'Supine_Chest_Throw/1.jpg']",
+        "id": "Supine_Chest_Throw"
+      },
+      {
+        "name": "Standing Long Jump",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "['calves', 'glutes', 'hamstrings']",
+        "instructions": "['This drill is best done in sand or other soft landing surface. Ensure that you are able to measure distance. Stand in a partial squat stance with feet shoulder width apart.', 'Utilizing a big arm swing and a countermovement of the legs, jump forward as far as you can.', 'Attempt to land with your feet out in front you, reaching as far as possible with your legs.', 'Measure the distance from your landing point to the starting point and track results.']",
+        "category": "plyometrics",
+        "images": "['Standing_Long_Jump/0.jpg', 'Standing_Long_Jump/1.jpg']",
+        "id": "Standing_Long_Jump"
+      },
+      {
+        "name": "Single-Leg Stride Jump",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "['abductors', 'adductors', 'calves', 'hamstrings']",
+        "instructions": "['Stand to the side of a box with your inside foot on top of it, close to the edge.', 'Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.', 'Land in the same position that you started, using your inside leg to decelerate the impact.']",
+        "category": "plyometrics",
+        "images": "['Single-Leg_Stride_Jump/0.jpg', 'Single-Leg_Stride_Jump/1.jpg']",
+        "id": "Single-Leg_Stride_Jump"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-03-24 13:49:53",
+    "workout": [
+      {
+        "name": "Rear Leg Raises",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "unspecified",
+        "equipment": "body only",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "[]",
+        "instructions": "['Place yourself on your hands knees on an exercise mat. Your head should be looking forward and the bend of the knees should create a 90-degree angle between the hamstrings and the calves. This will be your starting position.', 'Extend one leg up and behind you. The knee and hip should both extend. Repeat for 5-10 repetitions, and then switch sides.']",
+        "category": "stretching",
+        "images": "['Rear_Leg_Raises/0.jpg', 'Rear_Leg_Raises/1.jpg']",
+        "id": "Rear_Leg_Raises"
+      },
+      {
+        "name": "Sit Squats",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "unspecified",
+        "equipment": "unspecified",
+        "primaryMuscles": "['quadriceps']",
+        "secondaryMuscles": "['abductors', 'glutes', 'hamstrings']",
+        "instructions": "['Stand with your feet shoulder width apart. This will be your starting position.', 'Begin the movement by flexing your knees and hips, sitting back with your hips.', 'Continue until you have squatted a portion of the way down, but are above parallel, and quickly reverse the motion until you return to the starting position. Repeat for 5-10 repetitions.']",
+        "category": "stretching",
+        "images": "['Sit_Squats/0.jpg', 'Sit_Squats/1.jpg']",
+        "id": "Sit_Squats"
+      },
+      {
+        "name": "90/90 Hamstring",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "unspecified",
+        "equipment": "body only",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "['calves']",
+        "instructions": "['Lie on your back, with one leg extended straight out.', 'With the other leg, bend the hip and knee to 90 degrees. You may brace your leg with your hands if necessary. This will be your starting position.', 'Extend your leg straight into the air, pausing briefly at the top. Return the leg to the starting position.', 'Repeat for 10-20 repetitions, and then switch to the other leg.']",
+        "category": "stretching",
+        "images": "['90_90_Hamstring/0.jpg', '90_90_Hamstring/1.jpg']",
+        "id": "90_90_Hamstring"
+      },
+      {
+        "name": "Arm Circles",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "unspecified",
+        "primaryMuscles": "['shoulders']",
+        "secondaryMuscles": "['traps']",
+        "instructions": "['Stand up and extend your arms straight out by the sides. The arms should be parallel to the floor and perpendicular (90-degree angle) to your torso. This will be your starting position.', 'Slowly start to make circles of about 1 foot in diameter with each outstretched arm. Breathe normally as you perform the movement.', 'Continue the circular motion of the outstretched arms for about ten seconds. Then reverse the movement, going the opposite direction.']",
+        "category": "stretching",
+        "images": "['Arm_Circles/0.jpg', 'Arm_Circles/1.jpg']",
+        "id": "Arm_Circles"
+      },
+      {
+        "name": "Leg-Up Hamstring Stretch",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "unspecified",
+        "primaryMuscles": "['hamstrings']",
+        "secondaryMuscles": "[]",
+        "instructions": "['Lie flat on your back, bend one knee, and put that foot flat on the floor to stabilize your spine.', \"Extend the other leg in the air. If you're tight, you wont be able to straighten it. That's okay. Extend the knee so that the sole of the lifted foot faces the ceiling (or as close as you can get it).\", 'Slowly straighten the legs as much as possible and then pull the leg toward your nose. Switch sides.']",
+        "category": "stretching",
+        "images": "['Leg-Up_Hamstring_Stretch/0.jpg', 'Leg-Up_Hamstring_Stretch/1.jpg']",
+        "id": "Leg-Up_Hamstring_Stretch"
+      }
+    ]
+  }
+]
